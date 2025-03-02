@@ -1,0 +1,13 @@
+{
+  "name": "izzup-social",
+  "version": "1.0.0",
+  "description": "Distributed social",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["distributed social","social network"],
+  "author": "Brian Winkers",
+  "license": "AGPL-3.0-only",
+  "packageManager": "pnpm@10.5.2"
+}

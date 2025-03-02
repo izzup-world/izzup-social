@@ -1,10 +1,4 @@
-# Izzup Social Dual License
-
-Option 1: AGPL 3.0
-
-* Open to anyone
-
-Option 2: Social Collective License
+# Izzup  Social Collective License
 
 * Allows Izzup Collective members to make changes for network apps without sharing their changes.
 * Open to Izzup Social Collective memeber p[ods in good standing
